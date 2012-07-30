@@ -1,0 +1,12 @@
+## Files and folders to ignore in CodeIgniter project
+.settings/
+.loadpath
+.classpath
+local.properties
+.buildpath
+.project
+.metadata
+*.tmp
+*.swp
+*.bak
+*.launch
